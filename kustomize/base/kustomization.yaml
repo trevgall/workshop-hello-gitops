@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: trevgall/workshop-hello-gitops
-  newTag: 9832258954393b31af8b71dec9a22805331c9f52
+  newTag: 2aa02aed8081dea01d0158ece6f8532f8369516c
