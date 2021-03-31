@@ -44,6 +44,7 @@ minikube addons enable ingress
 ```
 
 
+
 ## Setup ArgoCD
 
 Refer to the official [setup instructions](https://argoproj.github.io/argo-cd/getting_started/) for a detailed guide.
